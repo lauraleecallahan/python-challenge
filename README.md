@@ -74,3 +74,18 @@ Your analysis should align with the following results:
 
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+
+
+### Resources
+
+1.	AI Overview
+    a.	What is the opposite of Append?
+2.	Elliot Einstein
+    a.	How to calculate net change and process each row
+3.	Gabriela Cantu
+    a.	How to calculate difference between months and the greatest increase and decrease in profits
+4.	Chegg
+5.	Thay Chansy
+6.	Luna Zhang
+    a.	Help with pushing to GitHub and debugging

@@ -27,7 +27,7 @@ Before starting the assignment, be sure to complete the following steps:
 
 5. Push these changes to GitHub or GitLab.
 
-# PyBank Instructions
+### PyBank Instructions
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -52,7 +52,7 @@ In addition, your final script should both print the analysis to the terminal an
 
 
 
-# PyPoll Instructions
+### PyPoll Instructions
 
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 

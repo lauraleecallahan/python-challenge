@@ -1,7 +1,7 @@
 # python-challenge
-<!-- MODULE 2 CHALLENGE -->
+<!-- MODULE 3 CHALLENGE -->
 
-## Module 2 Challenge
+## Module 3 Challenge
 
 
 Background
